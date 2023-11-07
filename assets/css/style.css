@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.google_logo {
+    display: block;
+    margin: auto;
+}
+
+main>table {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.search {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #eeeeee;
+}
+
+.special_search {
+    text-align: center;
+}
+
+td.left {
+    width: 37%;
+    background-color: #7ee5da;
+}
+
+td.middle {
+    font-size: 13px;
+    background-color: #70ccc2;
+}
+
+td.right {
+    font-size: 13px;
+    background-color: #62b3aa;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 13px;
+}
